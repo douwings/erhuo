@@ -1,0 +1,4 @@
+将SQL server数据库 导出文件导入数据库，JSP项目文件下的seconditem直接导入eclipse，运行可直接打开，
+由于用的一些HTML5，建议使用最新版本的 Safari、Chrome、Firefox、Opera 以及Internet Explorer 9也可。
+
+二手交易网站项目。

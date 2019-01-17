@@ -1,0 +1,10 @@
+#content{
+	background-color: #66ccff;
+	border-radius: 4px;
+	box-shadow: 0 1px 3px rgba(34,25,25,1.0);
+	padding: 40px;
+	margin: 0 auto;
+	max-width: 600px;
+	position: relative;
+	margin: 0 auto 100px;
+}
